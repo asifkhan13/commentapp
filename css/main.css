@@ -1,0 +1,27 @@
+body {
+
+  background-color: pink;
+
+
+	text-align:center;
+
+}
+
+div{
+  background-size: 35px;
+}
+
+h1 {
+	margin-bottom:50px;
+}
+
+input {
+	margin-bottom:20px;
+  color: green;
+}
+
+li {
+	list-style-type: none;
+	text-align:left;
+	font-size:20px;
+}
